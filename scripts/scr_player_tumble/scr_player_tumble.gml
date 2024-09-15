@@ -11,6 +11,7 @@ function scr_player_tumble()
 	mask_index = spr_crouchmask
 	if (sprite_index == spr_tumblestart)
 		movespeed = 6
+// placeholder code until sprite for vigilante bounce is made 
         if (character == "V" && scr_solid(x + xscale,y))
                  xscale *= -1
 	if(!finalmoveset){
