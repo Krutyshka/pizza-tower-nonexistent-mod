@@ -23,6 +23,7 @@ special_prompts = -4
 hud_posx = 0
 hud_posY = 0
 combo_state = 0
+comboghost_state = 0
 combo_posX = 0
 combo_vsp = 0
 combo_posY = 0
