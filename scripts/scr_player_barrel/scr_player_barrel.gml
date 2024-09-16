@@ -60,7 +60,7 @@ function scr_player_barrel()
 			if ((input_buffer_jump > 0) && (!key_down) && (vsp > 0))
 	        {
 	            input_buffer_jump = 0
-	            scr_fmod_soundeffect(jumpsnd, x, y)
+	            scr_soundeffect(sfx_jump)
 	            vsp = -8.5
 	            if ((move != xscale) && (move != 0))
 	            {
