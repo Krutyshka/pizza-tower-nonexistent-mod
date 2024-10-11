@@ -1,1 +1,0 @@
-event_perform_object(obj_lapportal, ev_draw, 0)
