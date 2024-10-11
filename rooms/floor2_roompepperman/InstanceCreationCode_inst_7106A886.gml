@@ -1,2 +1,0 @@
-musicname=mu_chase
-depth=9999999
